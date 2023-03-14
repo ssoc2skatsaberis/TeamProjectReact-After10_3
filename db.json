@@ -37,42 +37,20 @@
       "title": "Junior Web Developer"
     }
   ],
-  "stats": [
-    {
-      "id": "01",
-      "title": "Beneficiaries",
-      "amount": "25.000"
-    },
-    {
-      "id": "02",
-      "title": "Youth",
-      "amount": "45%"
-    },
-    {
-      "id": "03",
-      "title": "Years Running",
-      "amount": "8"
-    },
-    {
-      "id": "04",
-      "title": "Women",
-      "amount": "70%"
-    }
-  ],
   "courses": [
     {
       "id": "01",
-      "title": "Εισαγωγή στο Storytelling",
+      "title": "Εισαγωγή στο Storytelling geia",
       "imagePath": "/courses/storytelling.jpg",
       "price": {
         "early_bird": 300,
-        "normal": 500
+        "normal": "500"
       },
       "dates": {
         "start_date": "2023-01-12",
-        "end_date": "2023-02-05"
+        "end_date": "2023-02-28"
       },
-      "duration": "3 weeks",
+      "duration": "5 weeks",
       "online": true,
       "description": "Το Digital Storytelling είναι μια μορφή διαδραστικού content marketing, που σκοπό έχει να παρουσιάσει μια ιστορία με τρόπο που να κεντρίζει το ενδιαφέρον του ακροατηρίου.  Σκοπός του εργαστηρίου είναι να δημιουργήσουμε την προσωπική μας ιστορία μέσα από τις γνώσεις και τις βιωματικές εμπειρίες που συνδέονται με αυτό που θέλουμε να προβάλουμε. Με αυτόν τον τρόπο αποκτούμε ένα ανταγωνιστικό μήνυμα που μπορεί να ξεχωρίσει στον χώρο του διαδικτύου."
     },
